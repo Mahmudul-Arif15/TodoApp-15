@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -58,3 +59,6 @@ Join our community of developers creating universal apps.
 =======
 # TodoApp
 >>>>>>> 5f1c44e297be4b3e93472fa9a2227f9fcb7e5ff9
+=======
+# TodoApp
+>>>>>>> 7f48175f954e83c33ae260c40f599ef147650a1a
